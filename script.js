@@ -28,6 +28,9 @@ const projectGalleries = {
     '2': [
         { src: 'assets/images/packet1.jpg', title: 'Packet Tracer Simulation' }
     ],
+    '3': [
+        { src: 'assets/images/packet2.jpg', title: 'Packet Tracer Simulation 2' },
+    ],
     '4': [  
         { src: 'assets/images/project2(main).jpg', title: 'CB Resorts - Luxury Resort Website' },
         { src: 'assets/images/project2(f1).jpg', title: 'CB Resorts - Luxury Resort Website - Feature 1' }
